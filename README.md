@@ -103,3 +103,9 @@ pnpm build
 注意：
 * 项目依赖的 Reddit API 可能存在访问限制，可能需要申请 API 访问权限。
 * 在进行专业分析帖子时可能会失败，不要选择太多的帖子进行分析，因为太多的帖子文本量可能会很大，大模型token数量有限，所以需要控制数量。
+
+
+![1.png](public/images/other/1.png)
+![2.png](public/images/other/2.png)
+![3.png](public/images/other/3.png)
+![4.png](public/images/other/4.png)
