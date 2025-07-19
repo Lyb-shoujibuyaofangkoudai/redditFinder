@@ -1,0 +1,15 @@
+{
+  "Header": {
+    "title": "Reddit Analytics Dashboard",
+    "logoText": "Reddit Analytics Dashboard"
+  },
+  "buttons": {
+    "history": "History",
+    "settings": "Settings",
+    "exportReport": "Export Report"
+  },
+  "topSection": {
+    "inputPlaceholder": "Enter product description",
+    "extractButton": "Smart Extract Keywords"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "navigation": "Навигация"
+  },
+  "FinderMain": {
+    "inputPlaceholder": "Введите ссылку Reddit, ключевые слова или тему...",
+    "extractButton": "Извлечь ключевые слова",
+    "customParams": "Пользовательские параметры",
+    "addKeyword": "Добавить ключевое слово...",
+    "addButton": "Добавить",
+    "suggestions": "Рекомендации:",
+    "fetchData": "Получить данные",
+    "fetchSubtitle": "Нажмите, чтобы получить сообщения Reddit по ключевым словам",
+    "searchResults": "Результаты поиска",
+    "selectAll": "Выбрать все",
+    "basicAnalysis": "Базовый анализ",
+    "deepAnalysis": "Глубокий анализ",
+    "readMore": "Читать далее",
+    "analysisResults": "Результаты анализа",
+    "dataView": "Просмотр данных",
+    "visualizationView": "Визуализация просмотра",
+    "totalUpvotes": "Всего лайков",
+    "totalComments": "Всего комментариев",
+    "engagementRate": "Уровень вовлеченности",
+    "sentimentScore": "Оценка тональности",
+    "topicDistribution": "Распределение тем",
+    "sentimentTrend": "Тренд настроения",
+    "chartPlaceholder": "Здесь будет отображаться диаграмма",
+    "searchTitle": "Поиск контента Reddit",
+    "keywordsTitle": "Ключевые теги"
+  }
+}

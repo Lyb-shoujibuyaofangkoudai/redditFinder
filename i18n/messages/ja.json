@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "navigation": "ナビゲーション"
+  },
+  "FinderMain": {
+    "inputPlaceholder": "Redditのリンク、キーワードまたはトピックを入力してください...",
+    "extractButton": "キーワードをスマートに抽出",
+    "customParams": "カスタムパラメータ",
+    "addKeyword": "キーワードを追加...",
+    "addButton": "追加",
+    "suggestions": "提案:",
+    "fetchData": "データを取得",
+    "fetchSubtitle": "キーワードに関連するReddit投稿を取得します",
+    "searchResults": "検索結果",
+    "selectAll": "すべて選択",
+    "basicAnalysis": "基本分析",
+    "deepAnalysis": "詳細分析",
+    "readMore": "続きを読む",
+    "analysisResults": "分析結果",
+    "dataView": "データビュー",
+    "visualizationView": "ビジュアライゼーションビュー",
+    "totalUpvotes": "合計いいね数",
+    "totalComments": "合計コメント数",
+    "engagementRate": "エンゲージメント率",
+    "sentimentScore": "感情スコア",
+    "topicDistribution": "トピック分布",
+    "sentimentTrend": "感情トレンド",
+    "chartPlaceholder": "チャートはここに表示されます",
+    "searchTitle": "Redditコンテンツを検索",
+    "keywordsTitle": "キーワードタグ"
+  }
+}

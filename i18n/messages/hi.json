@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "navigation": "नेविगेशन"
+  },
+  "FinderMain": {
+    "inputPlaceholder": "Reddit लिंक, कीवर्ड या विषय दर्ज करें...",
+    "extractButton": "स्मार्ट कीवर्ड निकालें",
+    "customParams": "कस्टम पैरामीटर",
+    "addKeyword": "कीवर्ड जोड़ें...",
+    "addButton": "जोड़ें",
+    "suggestions": "सुझाव:",
+    "fetchData": "डेटा लाएं",
+    "fetchSubtitle": "कीवर्ड से संबंधित Reddit पोस्ट प्राप्त करने के लिए क्लिक करें",
+    "searchResults": "खोज परिणाम",
+    "selectAll": "सभी का चयन करें",
+    "basicAnalysis": "मूल विश्लेषण",
+    "deepAnalysis": "गहन विश्लेषण",
+    "readMore": "अधिक पढ़ें",
+    "analysisResults": "विश्लेषण परिणाम",
+    "dataView": "डेटा दृश्य",
+    "visualizationView": "दृश्यीकरण दृश्य",
+    "totalUpvotes": "कुल अपवोट्स",
+    "totalComments": "कुल टिप्पणियाँ",
+    "engagementRate": "संलग्नता दर",
+    "sentimentScore": "भावना स्कोर",
+    "topicDistribution": "विषय वितरण",
+    "sentimentTrend": "भावना प्रवृत्ति",
+    "chartPlaceholder": "चार्ट यहाँ दिखाई देगा",
+    "searchTitle": "Reddit सामग्री खोजें",
+    "keywordsTitle": "कीवर्ड टैग"
+  }
+}

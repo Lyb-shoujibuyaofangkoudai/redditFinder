@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "navigation": "탐색"
+  },
+  "FinderMain": {
+    "inputPlaceholder": "Reddit 링크, 키워드 또는 주제를 입력하세요...",
+    "extractButton": "키워드 스마트 추출",
+    "customParams": "사용자 정의 매개변수",
+    "addKeyword": "키워드 추가...",
+    "addButton": "추가",
+    "suggestions": "제안:",
+    "fetchData": "데이터 가져오기",
+    "fetchSubtitle": "키워드와 관련된 Reddit 게시물을 가져옵니다",
+    "searchResults": "검색 결과",
+    "selectAll": "전체 선택",
+    "basicAnalysis": "기본 분석",
+    "deepAnalysis": "심층 분석",
+    "readMore": "더 읽기",
+    "analysisResults": "분석 결과",
+    "dataView": "데이터 뷰",
+    "visualizationView": "시각화 뷰",
+    "totalUpvotes": "총 추천 수",
+    "totalComments": "총 댓글 수",
+    "engagementRate": "참여율",
+    "sentimentScore": "감정 점수",
+    "topicDistribution": "주제 분포",
+    "sentimentTrend": "감정 트렌드",
+    "chartPlaceholder": "차트가 여기에 표시됩니다",
+    "searchTitle": "Reddit 콘텐츠 검색",
+    "keywordsTitle": "키워드 태그"
+  }
+}

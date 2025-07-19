@@ -1,0 +1,41 @@
+{
+  "name": "reddit-finder",
+  "version": "1.3.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --port 8000",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@heroui/react": "2.8.0-beta.10",
+    "echarts": "^5.6.0",
+    "echarts-for-react": "^3.0.2",
+    "echarts-wordcloud": "^2.1.0",
+    "framer-motion": "^12.19.1",
+    "lucide-react": "^0.523.0",
+    "next": "15.2.4",
+    "next-intl": "^4.3.1",
+    "next-themes": "^0.4.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0",
+    "react-hot-toast": "^2.4.1",
+    "swiper": "^9.3.2",
+    "swr": "^2.3.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.3",
+    "@types/bcrypt": "^5.0.1",
+    "@types/node": "^20.8.9",
+    "@types/react": "19.0.8",
+    "@types/react-dom": "19.0.3",
+    "eslint": "^9.24.0",
+    "eslint-config-next": "15.1.6",
+    "postcss": "^8.4.31",
+    "prettier": "^3.0.3",
+    "prettier-plugin-tailwindcss": "^0.6.11",
+    "tailwindcss": "^4.1.3",
+    "typescript": "^5.2.2"
+  }
+}

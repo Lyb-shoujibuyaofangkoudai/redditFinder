@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "navigation": "التنقل"
+  },
+  "FinderMain": {
+    "inputPlaceholder": "أدخل رابط Reddit أو الكلمات المفتاحية أو الموضوع...",
+    "extractButton": "استخراج الكلمات المفتاحية الذكية",
+    "customParams": "معلمات مخصصة",
+    "addKeyword": "إضافة كلمة مفتاحية...",
+    "addButton": "إضافة",
+    "suggestions": "الاقتراحات:",
+    "fetchData": "جلب البيانات",
+    "fetchSubtitle": "انقر لجلب منشورات Reddit المتعلقة بالكلمات المفتاحية",
+    "searchResults": "نتائج البحث",
+    "selectAll": "تحديد الكل",
+    "basicAnalysis": "التحليل الأساسي",
+    "deepAnalysis": "التحليل العميق",
+    "readMore": "اقرأ أكثر",
+    "analysisResults": "نتائج التحليل",
+    "dataView": "عرض البيانات",
+    "visualizationView": "عرض التصور",
+    "totalUpvotes": "إجمالي الإعجابات",
+    "totalComments": "إجمالي التعليقات",
+    "engagementRate": "معدل التفاعل",
+    "sentimentScore": "درجة المشاعر",
+    "topicDistribution": "توزيع المواضيع",
+    "sentimentTrend": "اتجاه المشاعر",
+    "chartPlaceholder": "سيتم عرض الرسم البياني هنا",
+    "searchTitle": "بحث محتوى Reddit",
+    "keywordsTitle": "علامات الكلمات المفتاحية"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "navigation": "Navigation"
+  },
+  "FinderMain": {
+    "inputPlaceholder": "Reddit-Link, Schlüsselwörter oder Thema eingeben...",
+    "extractButton": "Schlüsselwörter intelligent extrahieren",
+    "customParams": "Benutzerdefinierte Parameter",
+    "addKeyword": "Schlüsselwort hinzufügen...",
+    "addButton": "Hinzufügen",
+    "suggestions": "Vorschläge:",
+    "fetchData": "Daten abrufen",
+    "fetchSubtitle": "Klicken Sie, um Reddit-Beiträge zu den Schlüsselwörtern abzurufen",
+    "searchResults": "Suchergebnisse",
+    "selectAll": "Alle auswählen",
+    "basicAnalysis": "Grundlegende Analyse",
+    "deepAnalysis": "Tiefgehende Analyse",
+    "readMore": "Mehr lesen",
+    "analysisResults": "Analyseergebnisse",
+    "dataView": "Datenansicht",
+    "visualizationView": "Visualisierungsansicht",
+    "totalUpvotes": "Gesamtzahl der Likes",
+    "totalComments": "Gesamtzahl der Kommentare",
+    "engagementRate": "Beteiligungsrate",
+    "sentimentScore": "Stimmungsscore",
+    "topicDistribution": "Themenverteilung",
+    "sentimentTrend": "Stimmungstrend",
+    "chartPlaceholder": "Diagramm wird hier angezeigt",
+    "searchTitle": "Reddit-Inhalt suchen",
+    "keywordsTitle": "Schlüsselwort-Tags"
+  }
+}

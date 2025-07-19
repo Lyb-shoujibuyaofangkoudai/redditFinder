@@ -1,0 +1,32 @@
+{
+  "Header": {
+    "navigation": "Navegación"
+  },
+  "FinderMain": {
+    "inputPlaceholder": "Ingrese enlace de Reddit, palabras clave o tema...",
+    "extractButton": "Extraer palabras clave inteligentemente",
+    "customParams": "Parámetros personalizados",
+    "addKeyword": "Agregar palabra clave...",
+    "addButton": "Agregar",
+    "suggestions": "Sugerencias:",
+    "fetchData": "Obtener datos",
+    "fetchSubtitle": "Haga clic para obtener publicaciones de Reddit relacionadas con las palabras clave",
+    "searchResults": "Resultados de búsqueda",
+    "selectAll": "Seleccionar todo",
+    "basicAnalysis": "Análisis básico",
+    "deepAnalysis": "Análisis profundo",
+    "readMore": "Leer más",
+    "analysisResults": "Resultados del análisis",
+    "dataView": "Vista de datos",
+    "visualizationView": "Vista de visualización",
+    "totalUpvotes": "Total de votos positivos",
+    "totalComments": "Total de comentarios",
+    "engagementRate": "Tasa de participación",
+    "sentimentScore": "Puntaje de sentimiento",
+    "topicDistribution": "Distribución de temas",
+    "sentimentTrend": "Tendencia de sentimiento",
+    "chartPlaceholder": "El gráfico se mostrará aquí",
+    "searchTitle": "Buscar contenido de Reddit",
+    "keywordsTitle": "Etiquetas de palabras clave"
+  }
+}
